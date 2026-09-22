@@ -1,0 +1,6 @@
+{
+  "name": "New Job Readiness Hub",
+  "description": "Interactive onboarding companion with countdown, first week checklist, 30-60-90 day roadmap, and introductory cheat sheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
